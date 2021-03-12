@@ -24,11 +24,14 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 
 ## GitHub Stats
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawisen&show_icons=true&locale=en&layout=compact" alt="dawisen" width="40%" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawisen&show_icons=true&locale=en" alt="dawisen" width="40%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawisen&" alt="dawisen" width="40%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dawisen&show_icons=true&locale=en" alt="dawisen" width="40%" />
 </div>
-<br>
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawisen&" alt="dawisen" width="33%" /></div>
 
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawisen&show_icons=true&locale=en&layout=compact" alt="dawisen" width="40%" /> 
+</div>
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawisen&label=Profile%20views&color=0e75b6&style=flat" alt="dawisen" /> </p>
