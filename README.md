@@ -7,13 +7,13 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawisen&label=Profile%20views&color=0e75b6&style=flat" alt="dawisen" /> </p>
 
-- 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy)
+### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy)
 
-- 🌱 I’m currently learning **React, AWS**
+### 🌱 I’m currently learning **React, AWS**
 
-- 📫 How to reach me **daniellewwise@gmail.com**
+### 📫 How to reach me **daniellewwise@gmail.com**
 
-- ⚡ Fun fact: **I speak some 日本語 and drink a lot of tea**
+### ⚡ Fun fact: **I speak some 日本語 and drink a lot of tea**
 
 ## Connect with me:
 <p align="center">
