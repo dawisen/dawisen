@@ -16,7 +16,7 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 - ⚡ Fun fact: **I speak some 日本語 and drink a lot of tea**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.hackerrank.com/daniellewwise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daniellewwise" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniellewisen1/"> <img align="center" src="makefg.png" alt="daniellewisen1" height="30" width="30" /></a> 
 </p>
