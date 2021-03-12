@@ -5,8 +5,6 @@
 ## Hi 👋, I'm Danielle
 I am a full-stack web developer based in Raleigh, North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I try to bring creative projects to life and demonstrate my commitment to developing top-notch software solutions for your company.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawisen&label=Profile%20views&color=0e75b6&style=flat" alt="dawisen" /> </p>
-
 ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy)
 
 ### 🌱 I’m currently learning **React, AWS**
@@ -32,3 +30,5 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 </div>
 <br>
 <div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawisen&" alt="dawisen" width="33%" /></div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawisen&label=Profile%20views&color=0e75b6&style=flat" alt="dawisen" /> </p>
