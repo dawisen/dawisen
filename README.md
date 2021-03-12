@@ -3,7 +3,9 @@
 </p>
 
 ## Hi 👋, I'm Danielle
-I am a full-stack web developer based in Raleigh, North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I try to bring creative projects to life and demonstrate my commitment to developing top-notch software solutions for your company.
+#### I am a full-stack web developer based in Raleigh, North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I try to bring creative projects to life and demonstrate my commitment to developing top-notch software solutions for your company.
+
+<br>
 
 ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy)
 
@@ -12,6 +14,8 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 ### 📫 How to reach me **daniellewwise@gmail.com**
 
 ### ⚡ Fun fact: **I speak some 日本語 and drink a lot of tea**
+
+<br>
 
 ## Connect with me:
 <p align="center">
