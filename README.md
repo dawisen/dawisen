@@ -30,4 +30,5 @@ I am a full-stack web developer based in Raleigh, North Carolina. I am proficien
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dawisen&show_icons=true&locale=en" alt="dawisen" width="40%" />
 </div>
+<br>
 <div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawisen&" alt="dawisen" width="33%" /></div>
