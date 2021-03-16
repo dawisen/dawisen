@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy)
 
-### 🌱 I’m currently learning **React, AWS**
+### 🌱 I’m currently learning **React, AWS Cloud Pracitioner Certification**
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
 
@@ -17,7 +17,8 @@
 
 ## Connect with me:
 <p align="center">
-<a href="https://www.hackerrank.com/daniellewwise" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daniellewwise" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/dawisen" target="blank"><img align="center" src="codewars.png" alt="daniellewwise" height="35" width="30" /></a>
+<a href="https://www.hackerrank.com/daniellewwise" target="blank"><img align="center" src="HackerRank.png" alt="daniellewwise" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniellewisen1/"> <img align="center" src="makefg.png" alt="daniellewisen1" height="30" width="30" /></a> 
 </p>
 
