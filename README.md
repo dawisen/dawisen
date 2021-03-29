@@ -15,6 +15,11 @@
 
 <br>
 
+## Check out my Website: 
+<p align="center">
+  http://www.daniellewisen.com/
+</p>
+
 ## Connect with me:
 <p align="center">
 <a href="https://www.codewars.com/users/dawisen" target="blank"><img align="center" src="codewars.png" alt="daniellewwise" height="35" width="30" /></a>
