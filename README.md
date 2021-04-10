@@ -7,7 +7,7 @@
 
 ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy) and [Vue Timer](https://github.com/dawisen/vue-timer)
 
-### 🌱 I’m currently learning **React, AWS Cloud Pracitioner Certification**
+### 🌱 I’m currently learning **React, AWS Cloud**
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
 
