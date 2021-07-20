@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.gif" alt="animated" />
+  <img src="http://placecorgi.com/600/500" alt="corgi" />
 </p>
 
 ## Hi 👋, I'm Danielle
