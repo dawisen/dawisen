@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
 
-### ⚡ Fun fact: **I speak some 日本語 and drink a lot of tea**
+### ⚡ Fun fact: **I can speak some 日本語**
 
 <br>
 
