@@ -2,7 +2,7 @@
   <img src="http://placecorgi.com/350/350" alt="corgi" />
 </p>
 
-### I am a software engineer from North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I try to bring creative projects to life and demonstrate my commitment to developing top-notch software solutions for your company.
+### I am a software engineer from North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in Javascript, CSS, Node.Js, and React. As a software engineer, I try to bring creative projects to life and demonstrate my commitment to developing top-notch software solutions for your company.
 
 <!-- ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy) -->
 
