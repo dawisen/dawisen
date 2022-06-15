@@ -6,8 +6,6 @@
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
 
-### ⚡ Fun fact: **I can speak some 日本語**
-
 <br>
 
 ## Connect with me:
