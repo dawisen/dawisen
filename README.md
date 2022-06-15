@@ -2,10 +2,6 @@
   <img src="http://placecorgi.com/350/350" alt="corgi" />
 </p>
 
-### I am a software engineer from North Carolina. I am proficient in both front-end and backend development. I have extensive knowledge in Javascript, CSS, Node.Js, and React.
-
-<!-- ### 🔭 I’m currently working on [Bud Buddy](https://github.com/dawisen/budbuddy) -->
-
 <!-- ### 🌱 I’m currently learning **placeholder** -->
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
