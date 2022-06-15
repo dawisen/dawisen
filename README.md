@@ -5,7 +5,6 @@
 <!-- ### 🌱 I’m currently learning **placeholder** -->
 
 ### 📫 How to reach me **daniellewwise@gmail.com**
-
 <br>
 
 ## Connect with me:
