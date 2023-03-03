@@ -1,7 +1,3 @@
-<p>
-  <img src="http://placecorgi.com/350/350" alt="corgi" />
-</p>
-
 <!-- ### 🌱 I’m currently learning **placeholder** -->
 
 
