@@ -7,7 +7,7 @@
 <br>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawisen&" alt="dawisen" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dawisen&show_icons=true&locale=en" alt="dawisen" width="40%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=dawisen&show_icons=true&locale=en" alt="dawisen" width="40%" /> -->
 </div>
 <br>
 <div>
